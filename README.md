@@ -16,4 +16,4 @@ Second Week
 
   </ul>
 
-&copy harrypotterwand.com
+
