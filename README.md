@@ -15,3 +15,5 @@ Second Week
   <li>   Locket </li>
 
   </ul>
+
+&copy harrypotterwand.com
