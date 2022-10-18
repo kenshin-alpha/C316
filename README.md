@@ -8,7 +8,7 @@ Second Week
   <ul>
     <li>
       Wand </li>
-  <li Locket </li>
+  <li> Locket </li>
   <li> Webpage </li>
   <li>   Program </li>
   <li>  Time </li>
